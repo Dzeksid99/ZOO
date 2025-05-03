@@ -1,0 +1,38 @@
+[
+  {
+    "text": "Где бы вы хотели жить? 😊",
+    "options": [
+      {"text": "А) В густом лесу", "animals": ["lemur", "loris", "glider", "echidna"]},
+      {"text": "Б) На открытой равнине", "animals": ["wallaby", "boodie", "aardvark"]},
+      {"text": "В) В саванне с деревьями", "animals": ["anteater", "elephant"]},
+      {"text": "Г) В скалистых местах", "animals": ["hyrax"]}
+    ]
+  },
+  {
+    "text": "Что вы любите есть? 🍽️",
+    "options": [
+      {"text": "А) Сладкие фрукты и нектар", "animals": ["lemur", "glider"]},
+      {"text": "Б) Насекомые", "animals": ["anteater", "loris", "glider", "echidna", "aardvark"]},
+      {"text": "В) Трава и листья", "animals": ["wallaby", "elephant", "boodie", "hyrax"]},
+      {"text": "Г) Гуммиарабик и сок деревьев", "animals": ["loris"]}
+    ]
+  },
+  {
+    "text": "Когда вы наиболее активны? 🌞🌙",
+    "options": [
+      {"text": "А) Днём", "animals": ["lemur", "elephant", "hyrax"]},
+      {"text": "Б) Ночью", "animals": ["loris", "glider", "aardvark", "boodie", "echidna"]},
+      {"text": "В) Утром и вечером", "animals": ["wallaby", "anteater"]},
+      {"text": "Г) В любое время", "animals": ["elephant"]}
+    ]
+  },
+  {
+    "text": "Как вы предпочитаете передвигаться? 🚶‍♂️",
+    "options": [
+      {"text": "А) Прыгая", "animals": ["wallaby", "boodie", "lemur"]},
+      {"text": "Б) Лазая по деревьям", "animals": ["lemur", "glider", "loris", "hyrax"]},
+      {"text": "В) Роя норы", "animals": ["aardvark", "boodie"]},
+      {"text": "Г) Медленно прогуливаясь", "animals": ["elephant", "anteater", "echidna"]}
+    ]
+  }
+]

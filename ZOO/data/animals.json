@@ -1,0 +1,52 @@
+{
+  "wallaby": {
+    "name": "Краснокрылый валлаби",
+    "description": "Энергичный прыгун из Австралии, как ты на вечеринке!",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bennetwallaby.jpg"
+  },
+  "lemur": {
+    "name": "Кольцехвостый лемур",
+    "description": "Социальный тусовщик с Мадагаскара, обожает компанию.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lemur_%2836254437184%29.jpg"
+  },
+  "anteater": {
+    "name": "Гигантский муравьед",
+    "description": "Тихий одиночка, мастер по поиску вкусных муравьев.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Oso_hormiguero_%28Myrmecophaga_tridactyla%29_%288697865538%29.jpg"
+  },
+  "loris": {
+    "name": "Медленная лори",
+    "description": "Ночной мечтатель, который любит неспешные прогулки.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nycticebus_coucang_004.jpg"
+  },
+  "aardvark": {
+    "name": "Земляной заяц",
+    "description": "Ночной копатель, всегда в поисках приключений.",
+    "photo": "https://www.tursar.ru/image/img2534_0.jpg"
+  },
+  "elephant": {
+    "name": "Малайский слон",
+    "description": "Мудрый гигант, душа любой компании.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/98/Elephas_maximus_%28Bandipur%29.jpg"
+  },
+  "echidna": {
+    "name": "Длинноносая ехидна",
+    "description": "Уникальный одиночка, загадка природы.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Wild_shortbeak_echidna.jpg"
+  },
+  "glider": {
+    "name": "Сахарная планерка",
+    "description": "Летающий акробат, покоряющий ночное небо.",
+    "photo": "https://www.zoo-ekzo.com/sites/default/files/images/petaurus_breviceps.jpg"
+  },
+  "boodie": {
+    "name": "Большой крысиный кенгуру",
+    "description": "Маленький копатель с большим сердцем.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/96/Rufus_Bettong_-_Flickr_-_GregTheBusker.jpg"
+  },
+  "hyrax": {
+    "name": "Желтопятнистый даман",
+    "description": "Скальный певец, обожающий громкие вечеринки.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ein_klippschliefer.jpg"
+  }
+}
